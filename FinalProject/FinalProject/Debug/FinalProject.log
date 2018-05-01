@@ -1,0 +1,8 @@
+﻿  Airport.cpp
+d:\school\c++2\cppfinalproject\cppfinalproject\finalproject\finalproject\airport.cpp(445): warning C4018: '<': signed/unsigned mismatch
+  Flight.cpp
+  Passenger.cpp
+  Plane.cpp
+  Source.cpp
+  Generating Code...
+  FinalProject.vcxproj -> D:\School\C++2\CppFinalProject\CppFinalProject\FinalProject\Debug\FinalProject.exe
